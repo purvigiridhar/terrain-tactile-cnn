@@ -1,0 +1,8 @@
+{
+  "test_acc": 0.6595982142857143,
+  "best_val": 0.6529017857142857,
+  "epochs": 150,
+  "lr": 0.001,
+  "batch": 16,
+  "n_learned_features": 1368
+}

@@ -1,0 +1,18 @@
+{
+  "class": {
+    "test_acc": 0.9162946428571429,
+    "best_params": {
+      "sigma": 10,
+      "C": 100
+    },
+    "best_val": 0.9207589285714286
+  },
+  "terrain": {
+    "test_acc": 0.765625,
+    "best_params": {
+      "sigma": 10,
+      "C": 10
+    },
+    "best_val": 0.7723214285714286
+  }
+}
