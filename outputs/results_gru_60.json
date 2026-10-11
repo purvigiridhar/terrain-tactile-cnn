@@ -1,0 +1,22 @@
+{
+  "raw_class": {
+    "test_acc": 0.8537946428571429,
+    "best_val": 0.8705357142857143,
+    "epochs": 60
+  },
+  "raw_terrain": {
+    "test_acc": 0.6774553571428571,
+    "best_val": 0.6640625,
+    "epochs": 60
+  },
+  "all_class": {
+    "test_acc": 0.9341517857142857,
+    "best_val": 0.9330357142857143,
+    "epochs": 60
+  },
+  "all_terrain": {
+    "test_acc": 0.7979910714285714,
+    "best_val": 0.8013392857142857,
+    "epochs": 60
+  }
+}

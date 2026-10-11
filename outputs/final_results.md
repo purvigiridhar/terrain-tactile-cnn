@@ -6,5 +6,5 @@
 | CNN: raw data | 87.5% | 64.3% |
 | CNN: raw + control features | 94.2% | 73.1% |
 | CNN: raw + all 33 features | 93.9% | 79.7% |
-| GRU: raw data (20 epochs) | 84.9% | 63.1% |
-| GRU: raw + all features (20 epochs) | 91.2% | 77.6% |
+| GRU: raw data (150 epochs) | 86.8% | 66.1% |
+| GRU: raw + all features (150 epochs) | 93.4% | 80.0% |
